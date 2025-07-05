@@ -7,3 +7,7 @@ h4{
     background-color: chocolate;
     text-align: center;
 }
+span{
+    text-shadow: none;
+    background-position: center;background-color: darkgreen;
+}
